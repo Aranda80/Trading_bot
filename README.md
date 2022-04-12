@@ -63,13 +63,13 @@ As per the analysis above, the baseline model provided an accuracy of 0.55 with 
 
 This application uses python 3.7.11 and the following packages:
 
-* **pandas
+* **pandas**
 
-* **tensorflow
+* **tensorflow**
 
-* **scikit-learn
+* **scikit-learn**
 
-* **Jupyter lab
+* **Jupyter lab**
 
 ## Instructions
 
